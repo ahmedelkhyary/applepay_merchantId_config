@@ -14,8 +14,8 @@
 <br /> <img src="https://user-images.githubusercontent.com/70061912/236616256-6fd7158d-abf2-4b4e-8a18-1350e55285b3.png" height="300">
 - In Certificates, Identifiers & Profiles, click Identifiers in the sidebar,
 - then click the add button (+) on the top left.
-- create a merchant identifier for your business
- <img src="https://user-images.githubusercontent.com/70061912/236617074-c717d98f-e510-4e2c-bf71-24071d56e01c.png" height="300"> 
+- create a `Merchant IDs` identifier for your business
+ <img src="https://user-images.githubusercontent.com/70061912/236620802-8dfe5e18-b3f7-4e27-a158-64f3aaadb133.png" height="300"> 
  
 - select Merchant IDs, Press Continue
 - enter description and identifier , Press Continue then Register
@@ -25,27 +25,27 @@
  - we need create apple payment processing certificate 
  - CREATE A PAYMENT PROCESSING CERTIFICATE TO ENCRYPT PAYMENT INFORMATION
  
- <img src="https://user-images.githubusercontent.com/70061912/236617887-261312c2-dfa0-4021-ab42-0f5d820f84fc.png" height="300">
-  
+ <img src="https://user-images.githubusercontent.com/70061912/236620902-5a6e6ebf-6b9a-468c-9d94-d87281acf633.png" height="300">
+
+ - select your merchant IDs
  - select no and continue  
  - select processing file from your PC location 
  
- <img src="https://user-images.githubusercontent.com/70061912/236618031-2e41c411-dad4-4a3e-85bc-179b0ac9ba55.png" height="300">
+ <img src="https://user-images.githubusercontent.com/70061912/236621009-09938294-38c4-44e0-aad0-e6e2fd79ac5c.png" height="300">
  
 - apple pay payment processing certificate created
 - download certificate
  
- <img src="https://user-images.githubusercontent.com/70061912/236618083-e2b28276-5a89-424f-8e3f-cd899ef82cbb.png" height="300">
-
 #### Let's create Merchant Certificate
   - create apple pay merchant identity certificate
+  - select your merchant IDs
  
-  <img src="https://user-images.githubusercontent.com/70061912/236618173-07304edb-ad23-45ab-9ccc-3dbf13849e19.png" height="300">
+  <img src="https://user-images.githubusercontent.com/70061912/236621188-9526c866-f4f5-4a58-8248-cf9acf6a02ab.png" height="300">
 
   - add Merchant file , from your PC location 
   - select continue , download cretificate  
 
-   <img src="https://user-images.githubusercontent.com/70061912/236619384-4bf89170-3081-4b87-9619-54f3691ec6b3.png" height="300">
+   <img src="https://user-images.githubusercontent.com/70061912/236621289-8ab04881-ffed-45ea-b865-f7fa4c04f38f.png" height="300">
 
 #### Let's verify Merchant domain
  - add url domain 
