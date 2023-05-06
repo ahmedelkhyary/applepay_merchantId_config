@@ -38,12 +38,12 @@
  <img src="https://user-images.githubusercontent.com/70061912/236618083-e2b28276-5a89-424f-8e3f-cd899ef82cbb.png" height="300">
 
 #### Let's create Merchant Certificate
- - create Certificate
+  - create apple pay merchant identity certificate
  
   <img src="https://user-images.githubusercontent.com/70061912/236618173-07304edb-ad23-45ab-9ccc-3dbf13849e19.png" height="300">
 
-- add Merchant file , from your PC location 
-- select continue , download cretificate  
+  - add Merchant file , from your PC location 
+  - select continue , download cretificate  
 
    <img src="https://user-images.githubusercontent.com/70061912/236619384-4bf89170-3081-4b87-9619-54f3691ec6b3.png" height="300">
 
@@ -53,12 +53,11 @@
  
   <img src="https://user-images.githubusercontent.com/70061912/236619543-eafec214-02f2-4889-a634-bcf1e8e4f03f.png" height="300">
 
-- download this file , and select copy url link below and send it to Backend team to add into server
-- after Backend team added this file , Press ok to verify 
+ - download this file , and select copy url link below and send it to Backend team to add into server
+ - after Backend team added this file , Press ok to verify 
 
   <img src="https://user-images.githubusercontent.com/70061912/236619613-a6f37f9f-86fa-4547-9fbc-a51252545344.png" height="300">
   
-
 ### IOS SETUP
  - Runner 
  - Signing & Capabilities
