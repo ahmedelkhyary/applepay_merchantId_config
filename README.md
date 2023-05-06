@@ -47,7 +47,7 @@
 
    <img src="https://user-images.githubusercontent.com/70061912/236621289-8ab04881-ffed-45ea-b865-f7fa4c04f38f.png" height="300">
 
-#### Let's verify Merchant domain
+#### Let's verify Merchant IDs domain
  - add url domain 
  - URL OF WEBSITE LIKE WWW.EXAMPLE.COM
  
