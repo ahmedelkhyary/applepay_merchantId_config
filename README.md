@@ -57,10 +57,16 @@
 - after Backend team added this file , Press ok to verify 
 
   <img src="https://user-images.githubusercontent.com/70061912/236619613-a6f37f9f-86fa-4547-9fbc-a51252545344.png" height="300">
+  
 
+### IOS SETUP
+ - Runner 
+ - Signing & Capabilities
+ - (+) capabiltiy
+ - select apple pay
+ - select merchant IDs 
 
-
-
+  <img src="https://user-images.githubusercontent.com/70061912/236619994-deeb14d5-1969-449a-8c44-9cd090eac8fe.png" height="300">
 
 
 
