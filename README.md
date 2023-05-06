@@ -51,10 +51,10 @@
  - add url domain 
  - URL OF WEBSITE LIKE WWW.EXAMPLE.COM
  
-  <img src="https://user-images.githubusercontent.com/70061912/236619543-eafec214-02f2-4889-a634-bcf1e8e4f03f.png" height="300">
+  <img src="https://user-images.githubusercontent.com/70061912/236621470-29f4fe9e-0845-42ca-9df8-5d943b552345.png" height="300">
 
- - download this file , and select copy url link below and send it to Backend team to add into server
- - after Backend team added this file , Press ok to verify 
+ - click download to download the text file provided. This must be uploaded to a folder called /.well-known/ in the HTTP root of your server. Once it is in place 
+ - click the Verify button to confirm that it is working.
 
   <img src="https://user-images.githubusercontent.com/70061912/236619613-a6f37f9f-86fa-4547-9fbc-a51252545344.png" height="300">
   
